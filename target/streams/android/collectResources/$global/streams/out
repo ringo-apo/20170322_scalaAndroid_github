@@ -1,0 +1,46 @@
+[0m[[0mdebug[0m] [0mLocal/library-project resources: List(C:\data\programing\20170322_scalaAndroid_scala-on-android.taig.io\target\android\generated\res, C:\data\programing\20170322_scalaAndroid_scala-on-android.taig.io\src\main\res, C:\data\programing\20170322_scalaAndroid_scala-on-android.taig.io\target\android\intermediates\renderscript\res)[0m
+[0m[[0mdebug[0m] [0mapklib/aar resources: List()[0m
+[0m[[0mdebug[0m] [0mAdding resource path: C:\data\programing\20170322_scalaAndroid_scala-on-android.taig.io\target\android\intermediates\renderscript\res[0m
+[0m[[0mdebug[0m] [0mAdding resource path: C:\data\programing\20170322_scalaAndroid_scala-on-android.taig.io\src\main\res[0m
+[0m[[0mdebug[0m] [0mAdding resource path: C:\data\programing\20170322_scalaAndroid_scala-on-android.taig.io\target\android\generated\res[0m
+[0m[[0mdebug[0m] [0mMerging main manifest C:\data\programing\20170322_scalaAndroid_scala-on-android.taig.io\src\main\AndroidManifest.xml[0m
+[0m[[0mdebug[0m] [0mMerging result:SUCCESS[0m
+[0m[[0mdebug[0m] [0m1<?xml version="1.0" encoding="utf-8"?>[0m
+[0m[[0mdebug[0m] [0m2<manifest xmlns:android="http://schemas.android.com/apk/res/android"[0m
+[0m[[0mdebug[0m] [0m3    package="org.example"[0m
+[0m[[0mdebug[0m] [0m4    android:versionCode="1"[0m
+[0m[[0mdebug[0m] [0m5    android:versionName="1.0" >[0m
+[0m[[0mdebug[0m] [0m6[0m
+[0m[[0mdebug[0m] [0m7    <uses-sdk[0m
+[0m[[0mdebug[0m] [0m8        android:minSdkVersion="7"[0m
+[0m[[0mdebug[0m] [0m9        android:targetSdkVersion="23" />[0m
+[0m[[0mdebug[0m] [0m10[0m
+[0m[[0mdebug[0m] [0m11    <application[0m
+[0m[[0mdebug[0m] [0m11-->C:\data\programing\20170322_scalaAndroid_scala-on-android.taig.io\src\main\AndroidManifest.xml:6:5-14:19[0m
+[0m[[0mdebug[0m] [0m12        android:icon="@drawable/ic_launcher"[0m
+[0m[[0mdebug[0m] [0m12-->C:\data\programing\20170322_scalaAndroid_scala-on-android.taig.io\src\main\AndroidManifest.xml:6:51-87[0m
+[0m[[0mdebug[0m] [0m13        android:label="@string/app_name" >[0m
+[0m[[0mdebug[0m] [0m13-->C:\data\programing\20170322_scalaAndroid_scala-on-android.taig.io\src\main\AndroidManifest.xml:6:18-50[0m
+[0m[[0mdebug[0m] [0m14        <activity[0m
+[0m[[0mdebug[0m] [0m14-->C:\data\programing\20170322_scalaAndroid_scala-on-android.taig.io\src\main\AndroidManifest.xml:7:9-13:20[0m
+[0m[[0mdebug[0m] [0m15            android:name="org.example.MainActivity"[0m
+[0m[[0mdebug[0m] [0m15-->C:\data\programing\20170322_scalaAndroid_scala-on-android.taig.io\src\main\AndroidManifest.xml:7:19-46[0m
+[0m[[0mdebug[0m] [0m16            android:label="@string/app_name" >[0m
+[0m[[0mdebug[0m] [0m16-->C:\data\programing\20170322_scalaAndroid_scala-on-android.taig.io\src\main\AndroidManifest.xml:8:19-51[0m
+[0m[[0mdebug[0m] [0m17            <intent-filter>[0m
+[0m[[0mdebug[0m] [0m17-->C:\data\programing\20170322_scalaAndroid_scala-on-android.taig.io\src\main\AndroidManifest.xml:9:13-12:29[0m
+[0m[[0mdebug[0m] [0m18                <action android:name="android.intent.action.MAIN" />[0m
+[0m[[0mdebug[0m] [0m18-->C:\data\programing\20170322_scalaAndroid_scala-on-android.taig.io\src\main\AndroidManifest.xml:10:17-69[0m
+[0m[[0mdebug[0m] [0m18-->C:\data\programing\20170322_scalaAndroid_scala-on-android.taig.io\src\main\AndroidManifest.xml:10:25-66[0m
+[0m[[0mdebug[0m] [0m19[0m
+[0m[[0mdebug[0m] [0m20                <category android:name="android.intent.category.LAUNCHER" />[0m
+[0m[[0mdebug[0m] [0m20-->C:\data\programing\20170322_scalaAndroid_scala-on-android.taig.io\src\main\AndroidManifest.xml:11:17-77[0m
+[0m[[0mdebug[0m] [0m20-->C:\data\programing\20170322_scalaAndroid_scala-on-android.taig.io\src\main\AndroidManifest.xml:11:27-74[0m
+[0m[[0mdebug[0m] [0m21            </intent-filter>[0m
+[0m[[0mdebug[0m] [0m22        </activity>[0m
+[0m[[0mdebug[0m] [0m23    </application>[0m
+[0m[[0mdebug[0m] [0m24[0m
+[0m[[0mdebug[0m] [0m25</manifest>[0m
+[0m[[0mdebug[0m] [0mMerged manifest saved to C:\data\programing\20170322_scalaAndroid_scala-on-android.taig.io\target\android\intermediates\manifest\AndroidManifest.xml[0m
+[0m[[0minfo[0m] [0mCollecting resources[0m
+[0m[[0minfo[0m] [0mPerforming incremental resource merge[0m

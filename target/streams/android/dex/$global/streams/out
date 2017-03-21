@@ -1,0 +1,8 @@
+[0m[[0mdebug[0m] [0mInvalidated cache because: List(C:\data\programing\20170322_scalaAndroid_scala-on-android.taig.io\target\android\intermediates\classes.jar)[0m
+[0m[[0minfo[0m] [0mGenerating dex, incremental=true, multidex=false[0m
+[0m[[0mdebug[0m] [0mDex inputs: List(C:\data\programing\20170322_scalaAndroid_scala-on-android.taig.io\target\streams\android\proguardInputs\$global\streams\proguard_cache\proguard-cache-95db040ccf9a8a07a80592f847589401addbc75c.jar, C:\data\programing\20170322_scalaAndroid_scala-on-android.taig.io\target\android\intermediates\classes.jar)[0m
+[0m[[0mdebug[0m] [0mDEX IN: List(C:\data\programing\20170322_scalaAndroid_scala-on-android.taig.io\target\streams\android\proguardInputs\$global\streams\proguard_cache\proguard-cache-95db040ccf9a8a07a80592f847589401addbc75c.jar, C:\data\programing\20170322_scalaAndroid_scala-on-android.taig.io\target\android\intermediates\classes.jar)[0m
+[0m[[0mdebug[0m] [0mPRE-DEXED: List()[0m
+[0m[[0mdebug[0m] [0mAllocated dexExecutorService of size 4[0m
+[0m[[0mdebug[0m] [0mDexing C:\data\programing\20170322_scalaAndroid_scala-on-android.taig.io\target\streams\android\proguardInputs\$global\streams\proguard_cache\proguard-cache-95db040ccf9a8a07a80592f847589401addbc75c.jar,C:\data\programing\20170322_scalaAndroid_scala-on-android.taig.io\target\android\intermediates\classes.jar took 666.6 ms[0m
+[0m[[0minfo[0m] [0mdex method count: 4987[0m

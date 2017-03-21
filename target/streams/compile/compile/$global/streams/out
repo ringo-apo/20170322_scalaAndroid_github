@@ -1,0 +1,2 @@
+[0m[[31merror[0m] [0m[NewApi] target\android\intermediates\classes\org\example\TypedResource$$anon$2.class:Call requires API level 11 (current min is 7): android.animation.AnimatorInflater#loadAnimator[0m
+[0m[[31merror[0m] [0mlint found 1 error, 0 warnings[0m

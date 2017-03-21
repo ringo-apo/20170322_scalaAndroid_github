@@ -1,0 +1,13 @@
+[0m[[0mdebug[0m] [0mjars to process for resources: List()[0m
+[0m[[0mdebug[0m] [0mPackaging root-20170322_scalaandroid_scala-on-android-taig-io-debug-unaligned.apk[0m
+[0m[[0mdebug[0m] [0mC:\data\programing\20170322_scalaAndroid_scala-on-android.taig.io\target\android\intermediates\packaging\resources-debug.ap_:[0m
+[0m[[0mdebug[0m] [0m=> AndroidManifest.xml[0m
+[0m[[0mdebug[0m] [0m=> res/drawable-hdpi-v4/ic_launcher.png[0m
+[0m[[0mdebug[0m] [0m=> res/drawable-ldpi-v4/ic_launcher.png[0m
+[0m[[0mdebug[0m] [0m=> res/drawable-mdpi-v4/ic_launcher.png[0m
+[0m[[0mdebug[0m] [0m=> res/drawable-xhdpi-v4/ic_launcher.png[0m
+[0m[[0mdebug[0m] [0m=> res/layout/main.xml[0m
+[0m[[0mdebug[0m] [0m=> resources.arsc[0m
+[0m[[0mdebug[0m] [0m=> classes.dex[0m
+[0m[[0mdebug[0m] [0mIncluding predexed: List()[0m
+[0m[[0minfo[0m] [0mPackaged: root-20170322_scalaandroid_scala-on-android-taig-io-debug-unaligned.apk (213.97KB)[0m

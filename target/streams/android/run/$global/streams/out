@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0mRunning on Android SDK built for x86 (emulator-5554)...[0m
+[0m[[0mdebug[0m] [0mExecuting [am start  -n org.example/org.example.MainActivity][0m
+[0m[[0minfo[0m] [0mStarting: Intent { cmp=org.example/.MainActivity }[0m
+[0m[[0mdebug[0m] [0mrun command executed[0m

@@ -1,0 +1,2 @@
+[0m[[33mwarn[0m] [0mNOTICE: final version published at `com.hanhuy.sbt % android-sdk-plugin`[0m
+[0m[[33mwarn[0m] [0mMIGRATION: `addSbtPlugin("org.scala-android" % "sbt-android" % "1.6.0")`[0m

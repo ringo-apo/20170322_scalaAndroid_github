@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0mProcessing resources[0m
+[0m[[0mdebug[0m] [0mAll libs: List()[0m
+[0m[[0mdebug[0m] [0mpackageForR: org.example[0m
+[0m[[0mdebug[0m] [0mproguard.txt: C:\data\programing\20170322_scalaAndroid_scala-on-android.taig.io\target\android\intermediates\proguard\proguard.txt[0m
+[0m[[0mdebug[0m] [0mCustom package for R class: 'org.example'[0m
+[0m[[0mdebug[0m] [0mcommand: C:\Android\sdk\build-tools\25.0.2\aapt.exe package -f --no-crunch -I C:\Android\sdk\platforms\android-23\android.jar -M C:\data\programing\20170322_scalaAndroid_scala-on-android.taig.io\target\android\intermediates\manifest\AndroidManifest.xml -S C:\data\programing\20170322_scalaAndroid_scala-on-android.taig.io\target\android\intermediates\res -A C:\data\programing\20170322_scalaAndroid_scala-on-android.taig.io\target\android\intermediates\assets -m -J C:\data\programing\20170322_scalaAndroid_scala-on-android.taig.io\target\android\generated\source -G C:\data\programing\20170322_scalaAndroid_scala-on-android.taig.io\target\android\intermediates\proguard\proguard.txt --debug-mode --custom-package org.example -0 apk --no-version-vectors[0m

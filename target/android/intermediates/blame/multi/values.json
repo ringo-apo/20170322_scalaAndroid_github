@@ -1,0 +1,122 @@
+[
+    {
+        "outputFile": "C:\\data\\programing\\20170319_18_scalaAndroid_scala-on-android.taig.io\\target\\android\\intermediates\\res\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "C:\\data\\programing\\20170319_18_scalaAndroid_scala-on-android.taig.io\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 49,
+                        "endOffset": 102
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\data\\programing\\20170319_scalaAndroid_scala-on-android.taig.io\\target\\android\\intermediates\\res\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "C:\\data\\programing\\20170319_scalaAndroid_scala-on-android.taig.io\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 49,
+                        "endOffset": 102
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\data\\programing\\20170321_scalaAndroid_scala-on-android.taig.io\\target\\android\\intermediates\\res\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "C:\\data\\programing\\20170321_scalaAndroid_scala-on-android.taig.io\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 49,
+                        "endOffset": 102
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\data\\programing\\20170321_04_scalaAndroid_scala-on-android.taig.io\\target\\android\\intermediates\\res\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "C:\\data\\programing\\20170321_04_scalaAndroid_scala-on-android.taig.io\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 49,
+                        "endOffset": 102
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\data\\programing\\20170322_scalaAndroid_scala-on-android.taig.io\\target\\android\\intermediates\\res\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "C:\\data\\programing\\20170322_scalaAndroid_scala-on-android.taig.io\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 49,
+                        "endOffset": 102
+                    }
+                }
+            }
+        ]
+    }
+]
